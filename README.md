@@ -1,10 +1,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi!+I'm+Ilia+and+I'm+learning+Java+;It's+a+lovely+day%2C+isn't+it%3F" alt="Typing SVG" /></a>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 ## Learning
 
 * I'm currently studying at the Summer23 FI Java DE course
 * It's hard but fun
 * I'm looking forward to becoming a professional Java developer
+
+<img align='center' src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47o8ke0epmx19h55r06vaqixnrly4o2ewotybbmmje&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="360">
 
 ## Why Java?
 * Java is a popular programming language that has been around for over 25 years and is still widely used today. Here are some reasons why Java is considered the best programming language:

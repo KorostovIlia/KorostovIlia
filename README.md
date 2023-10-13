@@ -1,5 +1,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi!+I'm+Ilia+and+I'm+learning+Java+;It's+a+lovely+day%2C+isn't+it%3F" alt="Typing SVG" /></a>
 
+## Learning
+
+* I'm currently studying at the Summer23 FI Java DE course
+* It's hard but fun
+* I'm looking forward to becoming a professional Java developer
+
 <!--
 **KorostovIlia/KorostovIlia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
